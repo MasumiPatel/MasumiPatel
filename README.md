@@ -9,7 +9,7 @@ I'm passionate about updating, designing, and implementing software that pushes 
 When I'm not deep into lines of code or tinkering with hardware, you'll find me immersed in a good book, sipping coffee with friends, or making new connections. I believe in the power of continuous learning and enjoy staying updated with the latest trends in technology.
 
 🌐 Connect With Me
-Let's connect! Whether you want to discuss a project, share a good book recommendation, or just chat over a virtual coffee, feel free to reach out to me on LinkedIn.
+Let's connect! Whether you want to discuss a project, share a good book recommendation, or just chat over a virtual coffee, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/feed/).
 
 🚀 Let's Build the Future Together
 I'm excited about the endless possibilities in the tech space, and I'm always open to collaboration and new opportunities. Let's build something amazing together!
